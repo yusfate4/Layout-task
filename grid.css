@@ -71,6 +71,9 @@ a:hover {
 
  
 @media only screen and (max-width: 768px) {
+  header {
+    font-size: 18px;
+  }
   a {
     display: inline-block;
     margin: 10px 0;
